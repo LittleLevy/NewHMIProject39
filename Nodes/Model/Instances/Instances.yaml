@@ -24,7 +24,7 @@ Children:
     DataType: Int32
     Value: 0
 - Name: Motor3
-  Type: Motor
+  Type: BaseObjectType
   Children:
   - Name: Variable1
     Type: BaseDataVariableType
@@ -35,7 +35,7 @@ Children:
     DataType: Int32
     Value: 0
 - Name: Motor4
-  Type: Motor1
+  Type: BaseObjectType
   Children:
   - Name: Variable1
     Type: BaseDataVariableType
